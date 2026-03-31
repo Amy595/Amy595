@@ -1,31 +1,130 @@
 # 💫 About Me:
-Hi, I'm Amy  Ozor-Obi 👋<br><br>📍 Location:  Canada<br>💼 Seeking: Entry-level IT Business Analyst / Full-Stack Developer / Junior Programmer<br>📫 Contact: Pozorobi@gmail.com<br><br>🔭 I’m currently working on<br>🎙 Soft Speak Studio Web App, Full-stack web application for audio recording, editing, and exporting built with PHP, Laravel, Node.js, and React<br>💻 Full-stack projects focusing on databases, responsive web design, and collaborative development<br><br>👯 I’m looking to collaborate on<br>      Web & mobile applications that solve real-world problems<br>      Full-stack projects using PHP, Laravel, Node.js, React, and PostgreSQL<br>      Open-source initiatives to build scalable, maintainable code<br><br>🤝 I’m looking for help with<br>      Advanced backend optimization & performance tuning<br>      Cloud deployment and scaling applications (AWS / Azure basics)<br>      Security best practices for full-stack applications<br><br>🌱 I’m currently learning<br>      Advanced Laravel & Node.js features for efficient backend systems<br>      Cloud computing (AWS & Azure basics)<br>      Modern UI/UX techniques for better web app usability<br><br>💬 Ask me about<br>      Full-stack development (frontend + backend integration)<br>      Database design & management with PostgreSQL & MariaDB<br>      Project planning, Agile methodologies, and Git workflows<br>      Building web apps from scratch and collaborative coding<br><br>⚡ Fun facts<br>      I love braiding my own hair and singing.<br>      I love turning creative ideas into functional apps<br>      I built a payroll management system, checkout app, and scheduling web app from scratch during my studies<br>      Passionate about learning new frameworks and technologies to improve software usability<br><br>🛠 Skills & Technologies<br>     Languages: PHP, JavaScript, Node.js, C#, Java, Python, kotlin<br>     Frameworks: Laravel, React<br>     Databases: PostgreSQL, MariaDB<br>     Tools & Platforms: Git, GitHub, Bitbucket, Jira, Trello, Plane<br>      Other: Agile methodologies, collaborative development, web & mobile project development<br><br>📌 Featured Projects (pin these on GitHub)<br>      Soft Speak Studio Web App<br>       –Full-stack audio processing web application<br>      Checkout Application<br>      – Web & mobile system for product purchases and transactions<br>      ADC Payroll Management System<br>      – Desktop + web payroll management system<br>      Scheduling Web App<br>      – Collaborative web application for managing schedules<br><br>🔗 Let's Connect<br><br>      LinkedIn | Email Me | GitHub
+Hi, I'm Amy Ozor-Obi 👋
 
+📍 Location: Canada  
+💼 Seeking: Entry-level IT Business Analyst / Full-Stack Developer / Junior Programmer  
+📫 Contact: Pozorobi@gmail.com  
 
-## 🌐 Socials:
-💼 LinkedIn: https://www.linkedin.com/in/ozor-obi-amy-778173217/
+🔭 I’m currently working on:  
+- 🎙 Soft Speak Studio Web App: Full-stack web application for audio recording, editing, and exporting built with PHP, Laravel, Node.js, and React  
+- 💻 Full-stack projects focusing on databases, responsive web design, and collaborative development  
+
+👯 I’m looking to collaborate on:  
+- Web & mobile applications that solve real-world problems  
+- Full-stack projects using PHP, Laravel, Node.js, React, and PostgreSQL  
+- Open-source initiatives to build scalable, maintainable code  
+
+🤝 I’m looking for help with:  
+- Advanced backend optimization & performance tuning  
+- Cloud deployment and scaling applications (AWS / Azure basics)  
+- Security best practices for full-stack applications  
+
+🌱 I’m currently learning:  
+- Advanced Laravel & Node.js features for efficient backend systems  
+- Cloud computing (AWS & Azure basics)  
+- Modern UI/UX techniques for better web app usability  
+
+💬 Ask me about:  
+- Full-stack development (frontend + backend integration)  
+- Database design & management with PostgreSQL & MariaDB  
+- Project planning, Agile methodologies, and Git workflows  
+- Building web apps from scratch and collaborative coding  
+
+⚡ Fun facts:  
+- I love braiding my own hair and singing  
+- I love turning creative ideas into functional apps  
+- I built a payroll management system, checkout app, and scheduling web app from scratch during my studies  
+- Passionate about learning new frameworks and technologies to improve software usability  
+
+🛠 Skills & Technologies:  
+**Languages:** PHP, JavaScript, Node.js, C#, Java, Python, Kotlin  
+**Frameworks:** Laravel, React  
+**Databases:** PostgreSQL, MariaDB  
+**Tools & Platforms:** Git, GitHub, Bitbucket, Jira, Trello, Plane  
+**Other:** Agile methodologies, collaborative development, web & mobile project development  
+
+📌 Featured Projects:  
+- **Soft Speak Studio Web App** – Full-stack audio processing web application  
+- **Checkout Application** – Web & mobile system for product purchases and transactions  
+- **ADC Payroll Management System** – Desktop + web payroll management system  
+- **Scheduling Web App** – Collaborative web application for managing schedules  
+
+🔗 Let's Connect:  
+[LinkedIn](https://www.linkedin.com/in/ozor-obi-amy-778173217) | [Email Me](mailto:pozorobi@gmail.com) | [GitHub](https://github.com/Amy595)
+
+---
+
+## 🌐 Live Project:
+[Live Demo - APMS Pro](https://apmspro.vercel.app)  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-APMS%20Pro-green?style=for-the-badge&logo=vercel)](https://apmspro.vercel.app)
+
+---
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Framework7](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS]![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL] ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma]![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+
+**Languages:**  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+
+**Cloud & Deployment:**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)  
+
+**Frameworks & Libraries:**  
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)  
+
+**Databases & ORM:**  
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)  
+
+**Tools & Other:**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)  
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amy595&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Amy595&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amy595&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Amy595&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=Amy595&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amy595&theme=dark&hide_border=false&include_all_commits=false&layout=compact)  
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Amy595&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Amy595&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amy595&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Amy595&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+
 Scheduling System at GCI
----
+
 [![](https://visitcount.itsvg.in/api?id=Amy595&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-https://buymeacoffee.com/amyozor9w
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amyozor9w)
